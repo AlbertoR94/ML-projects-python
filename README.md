@@ -1,2 +1,2 @@
-# NLP-Tweets-Disaster
-This projects uses NLP to predict real disasters from tweets.  
+# ML-projects-python
+This is a repository for machine learning projects in Python.  
